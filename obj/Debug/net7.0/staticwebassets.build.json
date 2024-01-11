@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YEj+qQRpqdA73Nvdj2ARli5nvYTO1lEdFbVUo0VSyjA=",
+  "Hash": "98uWKbdXoBw6A231Mr1fXNE0aN/MAl2WCvMeOIMHM68=",
   "Source": "ProductProject",
   "BasePath": "_content/ProductProject",
   "Mode": "Default",
@@ -102,12 +102,12 @@
       "OriginalItemSpec": "wwwroot\\img\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\MvcDeneme\\ProductProject\\wwwroot\\img\\2.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\MvcDeneme\\ProductProject\\wwwroot\\img\\2.jpg",
       "SourceId": "ProductProject",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\MvcDeneme\\ProductProject\\wwwroot\\",
       "BasePath": "_content/ProductProject",
-      "RelativePath": "img/2.jpeg",
+      "RelativePath": "img/2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\2.jpeg"
+      "OriginalItemSpec": "wwwroot\\img\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\MvcDeneme\\ProductProject\\wwwroot\\img\\3.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\MvcDeneme\\ProductProject\\wwwroot\\img\\3.jpg",
       "SourceId": "ProductProject",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\MvcDeneme\\ProductProject\\wwwroot\\",
       "BasePath": "_content/ProductProject",
-      "RelativePath": "img/3.jpeg",
+      "RelativePath": "img/3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\3.jpeg"
+      "OriginalItemSpec": "wwwroot\\img\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\MvcDeneme\\ProductProject\\wwwroot\\img\\4.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\MvcDeneme\\ProductProject\\wwwroot\\img\\4.jpg",
       "SourceId": "ProductProject",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\MvcDeneme\\ProductProject\\wwwroot\\",
       "BasePath": "_content/ProductProject",
-      "RelativePath": "img/4.jpeg",
+      "RelativePath": "img/4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\4.jpeg"
+      "OriginalItemSpec": "wwwroot\\img\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\MvcDeneme\\ProductProject\\wwwroot\\img\\5.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\MvcDeneme\\ProductProject\\wwwroot\\img\\5.jpg",
       "SourceId": "ProductProject",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\MvcDeneme\\ProductProject\\wwwroot\\",
       "BasePath": "_content/ProductProject",
-      "RelativePath": "img/5.jpeg",
+      "RelativePath": "img/5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,7 +167,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\5.jpeg"
+      "OriginalItemSpec": "wwwroot\\img\\5.jpg"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\MvcDeneme\\ProductProject\\wwwroot\\img\\6.jpg",

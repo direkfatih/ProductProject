@@ -10,10 +10,15 @@ namespace ProductProject.Models
     {
         [Display(Name="Ürün Id")]
         public int ProductId { get; set; }
+        [Required(ErrorMessage = "Ürün adı zorunludur")]
+        [StringLength(100)]
         [Display(Name="Ürün Adı")]
         public string Name { get; set; }
+        [Required(ErrorMessage = "Ürün fiyatı zorunludur")]
+        [Range(0,100)]
         [Display(Name="Ürün Fiyatı")]
         public double Price { get; set; }
+        [Required(ErrorMessage = "Ürün fotoğrafı zorunludur")]
         [Display(Name="Ürün Resmi")]
         public string Image { get; set; }
         [Display(Name="Aktif Mi?")]
